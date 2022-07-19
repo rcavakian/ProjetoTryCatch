@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ravakian\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ravakian\\.nuget\\packages"
+    ]
+  }
+}

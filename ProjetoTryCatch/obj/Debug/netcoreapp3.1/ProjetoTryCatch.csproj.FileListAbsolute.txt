@@ -1,0 +1,14 @@
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\bin\Debug\netcoreapp3.1\ProjetoTryCatch.exe
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\bin\Debug\netcoreapp3.1\ProjetoTryCatch.deps.json
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\bin\Debug\netcoreapp3.1\ProjetoTryCatch.runtimeconfig.json
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\bin\Debug\netcoreapp3.1\ProjetoTryCatch.runtimeconfig.dev.json
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\bin\Debug\netcoreapp3.1\ProjetoTryCatch.dll
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\bin\Debug\netcoreapp3.1\ProjetoTryCatch.pdb
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\obj\Debug\netcoreapp3.1\ProjetoTryCatch.csproj.AssemblyReference.cache
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\obj\Debug\netcoreapp3.1\ProjetoTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\obj\Debug\netcoreapp3.1\ProjetoTryCatch.AssemblyInfoInputs.cache
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\obj\Debug\netcoreapp3.1\ProjetoTryCatch.AssemblyInfo.cs
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\obj\Debug\netcoreapp3.1\ProjetoTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\obj\Debug\netcoreapp3.1\ProjetoTryCatch.dll
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\obj\Debug\netcoreapp3.1\ProjetoTryCatch.pdb
+C:\Users\ravakian\source\repos\ProjetoTryCatch\ProjetoTryCatch\obj\Debug\netcoreapp3.1\ProjetoTryCatch.genruntimeconfig.cache
